@@ -5,9 +5,7 @@ export const Pitch = () => {
   return (
     <StyledPitch>
       <h3>
-          Hello! I’m a frontend developer and a people-oriented person with a background in tourism and recreation.
-          I am a swift learner with ease in learning languages.
-          
+          Hello! I’m a Frontend developer & people-oriented professional with a tourism background. I am a swift learner with a knack for learning languages.
       </h3>
     </StyledPitch>
 
